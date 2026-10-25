@@ -22,7 +22,7 @@ print("Reversed:", classmates)
 
 
 teacher = {"name": "Mr. Sharma", "subject": "Python", "experience":
-           5}
+5}
 print("\nTeacher profile:", teacher)
 
 print("Subject:", teacher["subject"])
